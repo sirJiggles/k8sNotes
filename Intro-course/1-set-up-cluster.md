@@ -2,15 +2,15 @@
 
 ## Some things we will be using:
 
-### Kubeadm
+### kubeadm
 
 tool that simplifies setting up the cluster
 
-### Kublet
+### kublet
 
 agent that manages process of running containers on each node
 
-### kubectl
+### kubectl
 command line tool that we use to interact with the cluster
 
 ## Control plane
